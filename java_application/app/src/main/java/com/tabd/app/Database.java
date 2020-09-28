@@ -11,10 +11,7 @@ import java.sql.*;
 import oracle.jdbc.OracleCallableStatement;
 import oracle.jdbc.pool.OracleDataSource;
 
-/**
- *
- * @author oem
- */
+
 public class Database
 {
     
