@@ -1,6 +1,5 @@
 # tabd
-Repository for the TABD
-
+Java app
 ## Instalation with maven the ojdbc6 driver
 ```
 cd java_application
@@ -9,3 +8,7 @@ mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2
 ```
 
 Previously, we must install the maven dependencies with netbeans to run the project in debug mode.
+
+Practice with Cassandra
+
+Practice with Neo4j
