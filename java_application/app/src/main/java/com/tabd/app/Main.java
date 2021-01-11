@@ -590,8 +590,8 @@ public class Main
         
         Map<String, String> env = pb.environment();
         env.put("DB_HOST", "localhost");
-        env.put("DB_USER", "guillermo");
-        env.put("DB_PASS", "guillermo");
+        env.put("DB_USER", "user");
+        env.put("DB_PASS", "user");
         
         Database db = new Database(pb);
         
